@@ -102,8 +102,8 @@ celerybeat-schedule.*
 [Ss]cripts
 [Tt]cl
 pyvenv.cfg
-.env
-.venv
+.env*
+.venv*
 env/
 venv/
 ENV/
